@@ -1,0 +1,71 @@
+{
+  "numTotalTestSuites": 6,
+  "numPassedTestSuites": 4,
+  "numFailedTestSuites": 2,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 2,
+  "numPassedTests": 2,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1707070811185,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders a title",
+          "status": "passed",
+          "title": "renders a title",
+          "duration": 89,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707070815215,
+      "endTime": 1707070815304,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/__tests__ in the src folder/App.spec.ts"
+    },
+    {
+      "assertionResults": [],
+      "startTime": 1707070811185,
+      "endTime": 1707070811185,
+      "status": "passed",
+      "message": "failed to resolve \"extends\":\"cypress/e2e/tsconfig.json\" in /Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/tsconfig.node.json",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/__tests__/App.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Navbar.vue"
+          ],
+          "fullName": " Navbar.vue should toggle the class on click",
+          "status": "passed",
+          "title": "should toggle the class on click",
+          "duration": 87,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707070815135,
+      "endTime": 1707070815222,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/components/ __tests__ folder/Navbar.spec.ts"
+    },
+    {
+      "assertionResults": [],
+      "startTime": 1707070811185,
+      "endTime": 1707070811185,
+      "status": "passed",
+      "message": "failed to resolve \"extends\":\"cypress/e2e/tsconfig.json\" in /Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/tsconfig.node.json",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/views/__tests__/Kisat.spec.ts"
+    }
+  ]
+}
