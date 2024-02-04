@@ -1,0 +1,139 @@
+{
+  "numTotalTestSuites": 11,
+  "numPassedTestSuites": 8,
+  "numFailedTestSuites": 3,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 6,
+  "numPassedTests": 6,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1707078219676,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [],
+      "startTime": 1707078219676,
+      "endTime": 1707078219676,
+      "status": "passed",
+      "message": "failed to resolve \"extends\":\"cypress/e2e/tsconfig.json\" in /Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/tsconfig.node.json",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/__tests__/App.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders a title",
+          "status": "passed",
+          "title": "renders a title",
+          "duration": 153,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707078228003,
+      "endTime": 1707078228156,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/__tests__ in the src folder/App.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Navbar.vue"
+          ],
+          "fullName": " Navbar.vue should toggle the class on click",
+          "status": "passed",
+          "title": "should toggle the class on click",
+          "duration": 266,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707078224737,
+      "endTime": 1707078225003,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/components/ __tests__ folder/Navbar.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "Kisat.vue"
+          ],
+          "fullName": " Kisat.vue should display every race name in a title",
+          "status": "passed",
+          "title": "should display every race name in a title",
+          "duration": 148,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707078224859,
+      "endTime": 1707078225007,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/views/__tests__/Kisat.spec.ts"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            "",
+            "App.vue"
+          ],
+          "fullName": " App.vue renders a title",
+          "status": "passed",
+          "title": "renders a title",
+          "duration": 157,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " renders the navbar",
+          "status": "passed",
+          "title": "renders the navbar",
+          "duration": 27,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " renders the kisat list",
+          "status": "passed",
+          "title": "renders the kisat list",
+          "duration": 13,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1707078228002,
+      "endTime": 1707078228200,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/views/__tests__add__/App.spec.ts"
+    },
+    {
+      "assertionResults": [],
+      "startTime": 1707078219676,
+      "endTime": 1707078219676,
+      "status": "passed",
+      "message": "failed to resolve \"extends\":\"cypress/e2e/tsconfig.json\" in /Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/tsconfig.node.json",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/views/__tests__add__/Kisa.spec.ts"
+    },
+    {
+      "assertionResults": [],
+      "startTime": 1707078219676,
+      "endTime": 1707078219676,
+      "status": "passed",
+      "message": "Failed to load url /src/components/Kisa.vue (resolved id: /src/components/Kisa.vue). Does the file exist?",
+      "name": "/Users/eldarina/Downloads/heppaseikkailu-projekti/heppaseikkailu/src/views/__tests__add__/Kisat.spec.ts"
+    }
+  ]
+}
